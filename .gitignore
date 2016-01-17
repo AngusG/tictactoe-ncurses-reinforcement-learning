@@ -1,0 +1,3 @@
+Dont include temp or binary
+*.~
+run
